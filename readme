@@ -1,4 +1,6 @@
-Welcome to book api
+A simple Rest api to CRUD books
+Tools used:
+SpringBoot,Mysql,Spring data jpa.
 Rest End Points
 GET 
 /books
