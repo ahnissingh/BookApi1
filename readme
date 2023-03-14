@@ -1,1 +1,12 @@
 Welcome to book api
+Rest End Points
+GET 
+/books
+/books/id --> to get book of specific id
+Post :
+/books -to post list of books
+/book - to post single book
+Patch
+/books - to update book
+Delete
+/books/id -to delete book with specific id
